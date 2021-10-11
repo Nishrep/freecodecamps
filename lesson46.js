@@ -1,0 +1,1 @@
+var myList = [['Samurai armor', 1], ['Katana', 1], ['Wakizashi', 1], ['mount', 1], ['Sake', 1]]
